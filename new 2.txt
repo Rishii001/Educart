@@ -1,0 +1,29 @@
+           <div id="bfooter">
+            <div class="b1"><img src="connect.png"/>
+            <p style="color:white; font-size:20px;padding-left:5px; text-decoration:none;">Stay Connected</p>
+            <a href=""><img src="fb.png" class="media"/></a>
+            <a href=""><img src="x.png" class="media"/></a>
+            <a href=""><img src="wp.png" class="media"/></a>
+            <a href=""><img src="insta.png" class="media"/></a>
+            <a href=""><img src="yt.png" class="media"/>
+            </div>
+            <div class="b1"><h3 style="color:#fff; padding-left:12px;">USEFUL LINK</h3>
+            <table>
+                <tr><td><a href="#">Home</a></td><td><a href="#">Online Registration</a></td></tr>
+                <tr><td><a href="#">About Us</a></td><td><a href="#">Our Courses</a></td></tr>
+                <tr><td><a href="#">Pricing</a></td><td><a href="#">Feedback</a></td></tr>
+                <tr><td><a href="#">Placement</a></td><td><a href="#">Academics</a></td></tr>
+                <tr><td><a href="#">Contact Us</a></td><td><a href="#">Privacy Policy</a></td></tr>
+                <tr><td><a href="#">Our Team</a></td><td><a href="#">Our Recruiters</a></td></tr>
+            </table>
+            </div>
+            <div class="b1">
+                <h3 style="color:white; padding-left:12px;">CONTACT ADDRESS</h3>
+                <p style="color:white; padding-left:12px;">Plot No-43, Behind H.P. Petrol Pump,<br/>Tedhi Pullia Ring Rd,Sector 5,<br/>Vikas Nagar,Lucknow,<br/>Uttar Pradesh 226022</p>
+                <p style="color:white; padding-left:12px;">Contact: +91 9970071235</p>
+                <p style="color:white; padding-left:12px;">Mail: info@educartmail.com</p>
+            </div>
+           </div>
+           <div id="ufooter">
+            &copy; 2024 <a href="#" class="edu">Educart Company 2024</a> | Developed By <a href="#" class="edu">Educart-Education cell</a>
+           </div>

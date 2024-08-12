@@ -1,0 +1,15 @@
+#ufooter
+{
+    height:45px;
+    width:1200px;
+    line-height: 45px;
+    font-family: 10px;
+    background: black;
+    color: #fff;
+    text-align: center;
+}
+#ufooter .edu
+{
+    text-decoration: none;
+    color: #13a639;
+}
